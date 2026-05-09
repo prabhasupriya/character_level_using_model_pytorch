@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - LEARNING_RATE=0.001
+      - EPOCHS=10
+      - BATCH_SIZE=64
+    # The container will run the command you pass in the terminal
