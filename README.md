@@ -21,3 +21,5 @@ This project implements and compares two neural network architectures for charac
 
 ## Findings
 The Transformer model outperformed the LSTM in capturing the structural nuances of the text with a significantly lower perplexity score. Detailed analysis is available in `results/comparison_report.md`.
+
+# youtude link -[watch youtude video here](https://youtu.be/o3SM2-WvL4A) 
