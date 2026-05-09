@@ -1,0 +1,30 @@
+{
+    "lstm": {
+        "temperature_0.5": [
+            "SAMPSON\nsfish,oet lwFs  uieoeNsee,a,oeroo,eorun o,s, n\n\n awOh dh yeJ t\n,rw IIChh noand ,n\nwirr, ,Ur[sId  oa",
+            "SAMPSONSr, e\nir\nso h ortT oh; le\nW\not eeoinwhnye\nenrw\n.nyaTnI\ne!oe,eoi eed rhstrn r euses n\nhl lw doe  snmr"
+        ],
+        "temperature_1.0": [
+            "SAMPSONmhg,q. oo,s-vhBLsnrReh n rhlay R osl U,rs: eIeee osgnnewVr[\nr[lewwLieolIheeeweg e?sanuU wis euue rl,",
+            "SAMPSONyVWoDwsidJan nureTrnVeVaootneaw?n eT aauen eL :at esyseel,y, gennroo gdsfowVToI e:r  n\nih, lo\negaieI"
+        ],
+        "temperature_1.5": [
+            "SAMPSONws: for okVc?cW,woo ,w\n o\nndo T,alwo ,re \nky en elbeoy ooitlioey.nLriryet rowNi oy oie,I ee  uew: oh",
+            "SAMPSON?wonnoJFosweaeL oe onHn nrlonTee ,Nn,on[eoia k,\nTieril e,g\no\neWeneli  g\nlob unwsoilorLes ,\n Hoei, Po"
+        ]
+    },
+    "transformer": {
+        "temperature_0.5": [
+            "SAMPSON, 'E'y sE:f h ACwOaHQkrouD !e?\n\nTwehtoualGake oRouVig?uVer bAke o wff seu'LdT\nIh heherv fonelgnB wfh",
+            "SAMPSOND EumcL:MQntrLI-EouscHihon o, W AOe ,LIe q re dCshwe?eLhe s w.r'pVer f D wTniCAy itcQNike Wcr alo Vu"
+        ],
+        "temperature_1.0": [
+            "SAMPSOND nnlOEneEpO dq,\n: f, dulakkne[crHN\n,honaw AdiuAdity Aq oIrO heroweLIv Eke laign[us wD oJLEldene,\nFr",
+            "SAMPSON h ?tUQTecr :kQD bn[,\nNIusGT\nu-en, her bCe ldlin IIfA.AU;:O sccwh Lsere ldigy,\nTEOklaoBEeror-,R'u,\nF"
+        ],
+        "temperature_1.5": [
+            "SAMPSOND JPniwhoTmColign' igy Eoae vtEir QrM ViMay,.!fNRtl\nHisniglU:tMD la!Q di.!QNwt\nkeho;nSTwe?MM-JouLurk",
+            "SAMPSON]PkIr uy\nTTwotldiehH,\nQcLIEEThWUL sy dPnBn VEds.'pwRFv boldscuiO LEwIneroF-gb,WMehoRH VERre falaW\nIy"
+        ]
+    }
+}

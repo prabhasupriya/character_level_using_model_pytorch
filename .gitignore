@@ -13,21 +13,3 @@ ENV/
 # PyTorch models and weights
 models/*.pth
 models/*.pt
-
-# Results and logs
-results/*.png
-results/*.json
-results/*.md
-# Note: Keep the results folder if you want to show your output, 
-# but usually, we ignore generated artifacts in production.
-# If you want to include your final reports, comment out the lines above.
-
-# Docker
-.docker/
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Input data (if large)
-# input/shakespeare.txt
